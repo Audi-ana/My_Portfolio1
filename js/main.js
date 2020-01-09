@@ -180,7 +180,7 @@
             direction: 'vertical',
             verticalCentered: true,
             sectionsColor: [],
-            anchors: ['home', 'about', 'service', 'portfolio', 'work', 'contact'],
+            anchors: ['home', 'about', 'portfolio', 'contact'],
             scrollingSpeed: 700,
             easing: 'swing',
             loopBottom: true,
